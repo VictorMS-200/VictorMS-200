@@ -60,7 +60,5 @@
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-<div>
   [![iuricode](https://github-readme-stats.vercel.app/api?username=VictorMS-200&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
   [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMS-200&hide=html&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-</div>
