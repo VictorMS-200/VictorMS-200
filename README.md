@@ -1,14 +1,23 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-![C++](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=Csharp&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+<h3>Sobre mim</h3>
+
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando Ciência da Computação na <a href="https://www.una.br/">Una</a>.
+- 🌱 &nbsp; Aprendendo mais sobre **After effects, Dotnet, React.js e Next.js**.
+
+<h3>Minhas Skills</h3>
+
+**Aplicações e dados**
+![Adobe_After_Effects](https://img.shields.io/badge/-Adobe_After_Effects-333333?style=flat&logo=adobeaftereffects)
+![Adobe_Premiere_Pro](https://img.shields.io/badge/-Adobe_Premiere_Pro-333333?style=flat&logo=adobepremierepro)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs)
+![Csharp](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=Csharp&logoColor=00599C)
+![Dotnet](https://img.shields.io/badge/-Dotnet-333333?style=flat&logo=dotnet&logoColor=00599C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Flutter](https://img.shields.io/badge/-Adobe_After_Effects-333333?style=flat&logo=adobeaftereffects)
-![Flutter](https://img.shields.io/badge/-Adobe_Premiere_Pro-333333?style=flat&logo=adobepremierepro)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 <p align="left">
