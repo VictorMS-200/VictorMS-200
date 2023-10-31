@@ -8,12 +8,14 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<h3>Sobre mim</h3>
+## Sobre mim
 
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Ciência da Computação na <a href="https://www.una.br/">Una</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **After effects, Dotnet, React.js e Next.js**.
+- 
+---
 
 ## 🚀 Minhas Skills
 
