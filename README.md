@@ -1,6 +1,6 @@
-## 💜 Olá, meu nome é <strong>Victor!</strong>
+## Olá, meu nome é <strong>Victor!</strong>
 
-> Sou estudante de Ciência da Computação apaixonado por web development e C#. Tenho um forte interesse em edição de video e programação, e estou sempre em busca de desafios empolgantes.
+> Sou estudante de Ciência da Computação apaixonado por web development e C#. Tenho um forte interesse e apaixonado em edição de video e programação, e estou sempre em busca de desafios empolgantes.
 
 💬 Se você estiver interessado em entrar em contato comigo, não hesite em me chamar nas redes sociais abaixo:
 
@@ -52,7 +52,7 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="mailto:victorm20005@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:victorm20005@gmail.com" /></a>
 
   <a href="#" alt="Linkedin">
