@@ -1,3 +1,11 @@
+## 💜 Olá, meu nome é <strong>Victor!</strong>
+
+> Sou estudante de Ciência da Computação apaixonado por web development e C#. Tenho um forte interesse em edição de video e programação, e estou sempre em busca de desafios empolgantes.
+
+💬 Se você estiver interessado em entrar em contato comigo, não hesite em me chamar nas redes sociais abaixo:
+
+---
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <h3>Sobre mim</h3>
@@ -57,15 +65,8 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p> 
 
-## 💜 Olá, meu nome é <strong>{seu nome}!</strong>
 
-> Faça uma breve aprensentação sobre você e a sua área.
-
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
-
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
-
-----
+---
 
 ## 🚀 Minhas Skills
 
