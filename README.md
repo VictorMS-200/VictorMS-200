@@ -4,6 +4,17 @@
 
 💬 Se você estiver interessado em entrar em contato comigo, não hesite em me chamar nas redes sociais abaixo:
 
+<p align="left">
+  <a href="mailto:victorm20005@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:victorm20005@gmail.com" /></a>
+
+  <a href="https://www.linkedin.com/in/victor-martins-3565a4268/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-martins-3565a4268/" /></a>
+
+  <a href="https://instagram.com/victor.ma18?igshid=NGVhN2U2NjQ0Yg==" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p> 
+
 ---
 
 ## Sobre mim
@@ -48,21 +59,6 @@
 **Ferramentas de desenvolvimento**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
-
-<p align="left">
-  <a href="mailto:victorm20005@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:victorm20005@gmail.com" /></a>
-
-  <a href="https://www.linkedin.com/in/victor-martins-3565a4268/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-martins-3565a4268/" /></a>
-
-  <a href="https://instagram.com/victor.ma18?igshid=NGVhN2U2NjQ0Yg==" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p> 
 
 ---
 
