@@ -2,13 +2,13 @@
 
 <h3>Sobre mim</h3>
 
+
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Ciência da Computação na <a href="https://www.una.br/">Una</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **After effects, Dotnet, React.js e Next.js**.
-
+- 
 <h3>Minhas Skills</h3>
 
-**Aplicações e dados**
 ![Adobe_After_Effects](https://img.shields.io/badge/-Adobe_After_Effects-333333?style=flat&logo=adobeaftereffects)
 ![Adobe_Premiere_Pro](https://img.shields.io/badge/-Adobe_Premiere_Pro-333333?style=flat&logo=adobepremierepro)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
