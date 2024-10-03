@@ -46,7 +46,7 @@
 
 ![Adobe_After_Effects](https://img.shields.io/badge/-Adobe_After_Effects-333333?style=flat&logo=adobeaftereffects)
 ![Adobe_Premiere_Pro](https://img.shields.io/badge/-Adobe_Premiere_Pro-333333?style=flat&logo=adobepremierepro)
-![Adobe_Premiere_Pro](https://img.shields.io/badge/davinciresolve-333333?style=flat&logo=davinciresolve)
+![DaVinci resolve](https://img.shields.io/badge/DaVinci-resolve-333333?style=flat&logo=davinciresolve)
 
 **Utilidades**
 
@@ -59,9 +59,14 @@
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
 
+**Cloud**
+
+![Docker](https://img.shields.io/badge/-Aws-333333?style=flat&logo=aws)
+
 **Ferramentas de desenvolvimento**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Intellij Idea](https://img.shields.io/badge/-Intellij-Idea-333333?style=flat&logo=intellijidea)
 
 ---
 
