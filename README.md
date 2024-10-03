@@ -46,6 +46,7 @@
 
 ![Adobe_After_Effects](https://img.shields.io/badge/-Adobe_After_Effects-333333?style=flat&logo=adobeaftereffects)
 ![Adobe_Premiere_Pro](https://img.shields.io/badge/-Adobe_Premiere_Pro-333333?style=flat&logo=adobepremierepro)
+![Adobe_Premiere_Pro](https://img.shields.io/badge/davinciresolve-333333?style=flat&logo=davinciresolve)
 
 **Utilidades**
 
