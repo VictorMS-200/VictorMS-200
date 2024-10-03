@@ -67,7 +67,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Rider](https://img.shields.io/badge/-Rider-333333?style=flat&logo=rider)
-![Intellij Idea](https://img.shields.io/badge/-Intellij-Idea?style=flat&logo=intellijidea)
+![Intellij Idea](https://img.shields.io/badge/-Intellij Idea?style=flat&logo=intellijidea)
 
 ---
 
