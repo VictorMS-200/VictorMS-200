@@ -55,7 +55,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco-Packet-Tracer-333333?style=flat&logo=cisco)
+![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-333333?style=flat&logo=cisco)
 
 **Cloud**
 
