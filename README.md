@@ -48,16 +48,14 @@
 ![Adobe_Premiere_Pro](https://img.shields.io/badge/-Adobe_Premiere_Pro-333333?style=flat&logo=adobepremierepro)
 ![DaVinci resolve](https://img.shields.io/badge/DaVinci-resolve-333333?style=flat&logo=davinciresolve)
 
-**Utilidades**
-
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
 **DevOps**
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco-Packet-Tracer-333333?style=flat&logo=cisco)
 
 **Cloud**
 
