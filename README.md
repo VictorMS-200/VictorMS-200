@@ -21,7 +21,7 @@
 
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Ciência da Computação na <a href="https://www.una.br/">Una</a>.
+- 🎓 Estudando Ciência da Computação na <a href="https://ufu.br/">Universidade Federal de Uberlândia</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **After effects, Dotnet, React.js e Next.js**.
   
 ---
