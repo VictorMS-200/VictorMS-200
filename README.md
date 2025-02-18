@@ -41,6 +41,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=white)
 ![Haskell](https://img.shields.io/badge/-Haskell-333333?style=flat&logo=Haskell&logoColor=white)
+![C](https://img.shields.io/badge/-c-333333?style=flat&logo=c&logoColor=white)
 
 
 **Edição de video**
