@@ -22,7 +22,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Ciência da Computação na <a href="https://ufu.br/">Universidade Federal de Uberlândia</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **After effects, Dotnet, React.js e Next.js**.
+- 🌱 &nbsp; Aprendendo mais sobre **After effects, Dotnet, Terraform, Docker e Haskell**.
   
 ---
 
