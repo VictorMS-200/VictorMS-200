@@ -39,15 +39,15 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Haskell](https://img.shields.io/badge/-Haskell-5e5086?style=flat&logo=Haskell&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=white)
+![Haskell](https://img.shields.io/badge/-Haskell-333333?style=flat&logo=Haskell&logoColor=white)
 
 
 **Edição de video**
 
 ![Adobe_After_Effects](https://img.shields.io/badge/-Adobe_After_Effects-333333?style=flat&logo=adobeaftereffects)
 ![Adobe_Premiere_Pro](https://img.shields.io/badge/-Adobe_Premiere_Pro-333333?style=flat&logo=adobepremierepro)
-![DaVinci resolve](https://img.shields.io/badge/DaVinci-resolve-333333?style=flat&logo=davinciresolve)
+![DaVinci resolve](https://img.shields.io/badge/-DaVinci_resolve-333333?style=flat&logo=davinciresolve)
 
 **DevOps**
 
