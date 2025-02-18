@@ -21,8 +21,8 @@
 
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Ciência da Computação na <a href="https://ufu.br/">Universidade Federal de Uberlândia</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **After effects, Dotnet, Terraform, Docker e Haskell**.
+- 🎓 Estudando Ciência da Computação na <a href="https://ufu.br/">Universidade Federal de Uberlândia</a> (2º semestre).
+- 🌱 &nbsp; Aprendendo mais sobre **After effects, Terraform, Docker, Haskell e C**.
   
 ---
 
